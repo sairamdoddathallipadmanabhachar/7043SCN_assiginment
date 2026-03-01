@@ -1,3 +1,4 @@
+```text
 🧠 Chef’s Hat – Opponent Modelling with PPO
 📌 Project Overview
 This project implements a Reinforcement Learning (RL) agent for the Chef’s Hat multi-agent card game environment using Proximal Policy Optimisation (PPO).
@@ -20,7 +21,7 @@ This project demonstrates:
 ________________________________________
 ## 🏗 Project Structure
 
-```text
+
 chefs_hat_opponent_modelling/
 │
 ├── agents/
