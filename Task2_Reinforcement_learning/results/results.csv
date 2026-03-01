@@ -1,0 +1,2 @@
+model,opponent,win_rate
+results/models/ppo_opponent_model,heuristic,0.83
