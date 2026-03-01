@@ -18,7 +18,9 @@ This project demonstrates:
 •	Experimental evaluation using win rate as the primary metric
 •	Reproducible training and evaluation pipeline
 ________________________________________
-🏗 Project Structure
+## 🏗 Project Structure
+
+```text
 chefs_hat_opponent_modelling/
 │
 ├── agents/
